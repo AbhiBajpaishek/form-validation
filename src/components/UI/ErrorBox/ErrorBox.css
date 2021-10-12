@@ -1,0 +1,20 @@
+.error-header{
+    background-color: blueviolet;
+    height: 45px;
+    color: white;
+    padding: 0.7rem 0.4rem;
+    font-weight: 700;
+    border-radius: 6px;
+}
+
+.error-msg{
+    background-color: white;
+    color: black;
+    padding: 1rem ;
+}
+
+.error-btn
+{
+    margin-top: 20px;
+    float: right;
+}

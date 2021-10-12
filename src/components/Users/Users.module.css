@@ -1,0 +1,14 @@
+.users{
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+}
+
+.user-detail{
+    margin-bottom: 10px;
+    border: 1px solid darkgrey;
+    height: 24px;   
+    padding: 0.7rem 0.5rem;
+    font-weight: 600;
+    font-family: 'Roboto';
+}
